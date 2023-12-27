@@ -1,6 +1,6 @@
 import './App.css';
-import NavBar from './components/NavBar';
-import FormData from './components/TextParser';
+import NavBar from './components/Navigation/NavBar';
+import FormData from './components/ContentArea/TextParser';
 function App() {
   return (
     <>
